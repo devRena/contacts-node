@@ -1,0 +1,1 @@
+[{"First":"Maria","Last":"Petridh","phone":"6901000000","email":"maria@gmail.com","imgName":"img/eikona1.jpg"},{"First":"Sofia","Last":"Karavia","phone":"6901000003","email":"sofia@gmail.com","imgName":"img/eikona1.jpg"},{"First":"rena","Last":"kontogianni","phone":"1244","email":"rkont@telcoserv.gr","imgName":"Lighthouse.jpg"}]

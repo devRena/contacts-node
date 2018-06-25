@@ -1,0 +1,6 @@
+[
+{"First":"Rena","Last":"Kontogianni","phone":"6900000000","email":"rena@gmail.com"},
+{"First":"Maria","Last":"Petridh","phone":"6901000000","email":"maria@gmail.com"},
+{"First":"Sofia","Last":"Karavia","phone":"6901000003","email":"sofia@gmail.com"},
+{"First":"Katia","Last":"Mermigka","phone":"6901000005","email":"katia@gmail.com"}
+]
